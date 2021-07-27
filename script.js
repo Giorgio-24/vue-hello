@@ -5,7 +5,8 @@ var root = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Hey you!'
+            message: 'Hey you!',
+            imageLocation: 'http://www.maxagency.com/blog/wp-content/uploads/2019/05/obama-meme.jpg'
         }
     }
 );
